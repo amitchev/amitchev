@@ -1,9 +1,4 @@
-/********************/
-/* Austyn Mitchev   */
-/* 29th Nov 2021    */
-/* CS-241 Section 06*/
-/* Lab 8 (Desteg)   */
-/********************/
+
 
 #include <stdio.h>
 
