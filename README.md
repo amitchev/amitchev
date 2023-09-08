@@ -1,8 +1,5 @@
  Hi, I’m @amitchev
-  - I’m interested in: Software Engineering and Cybersecurity
-  - I’m currently learning: Large Project Design in Java and Python
-  - I’m looking to collaborate on: Encryption, HTML/SQL Databases, Mobile Applications
-  - How to reach me: DM on Github or email me at amitchev@gmail.com
+I'm a hard-working and dedicated prospective software engineer with a diverse work experience and an upcoming B. S. in Computer Science (Dec. 2023). Professional experience in a variety of development fields, in both academia and large companies, and always looking to expand it further. Seeking to further my professional experience and leverage my array of skills to provide creative and efficient solutions to modern software problems
 
 <!---
 amitchev/amitchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
