@@ -1,3 +1,7 @@
+UNDER CONSTRUCTION
+To anyone viewing this repo, please be aware that I still need to add most of my personal projects. 
+Will be able to do so after this semester!
+ 
  Hi, I’m @amitchev
 I'm a hard-working and dedicated prospective software engineer with a diverse work experience and an upcoming B. S. in Computer Science (Dec. 2023). Professional experience in a variety of development fields, in both academia and large companies, and always looking to expand it further. Seeking to further my professional experience and leverage my array of skills to provide creative and efficient solutions to modern software problems
 
